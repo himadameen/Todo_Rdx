@@ -13,3 +13,6 @@ it render the todo's as per the user requirement</h5>
 
 <h5>After Getting the details the data's will stored in a database</h5>
 
+<p>The backend is deployed in Vercel</p>
+
+
